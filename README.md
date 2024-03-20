@@ -1,5 +1,6 @@
 <h2>Node JS File System</h2>
 <h3>Render URL:</h3>https://filesretrieve-express-node-1.onrender.com/
+<h3>Postman Link</h3>https://api.postman.com/collections/26304073-d36ff303-ff76-419b-92f5-5c37356dd5dc?access_key=PMAT-01HSDHCWSGQNH0GQMHFXY23MPH
 <ul>
   <li>Wrote a API endpoint to create a file in a particular folder</li>
   <li>Wrote a API endpoint to retrieve all text files in a particular folder</li>
